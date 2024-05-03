@@ -1,5 +1,0 @@
-update the text
-<<Changes to the file>>
-Moved from file5 to file using mv file5 file4
-output: File4
-----Updated----
