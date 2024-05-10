@@ -1,1 +1,1 @@
-clean the logs
+clean the logs from my system
